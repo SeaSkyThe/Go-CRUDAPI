@@ -1,5 +1,5 @@
 # Go-CRUDAPI
-CRUD Api built from scratch using Go version 1.18.4
+CRUD Api built from scratch using Go version 1.18.4 (using gorilla/mux)
 
 To test this API, i used POSTMAN (https://www.postman.com/), there you can send the requests to the server in the port 8000, and see the responses.
 
